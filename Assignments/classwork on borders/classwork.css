@@ -1,0 +1,158 @@
+
+/* Border on all sides  */
+.border1 {
+border: 3px solid grey;
+padding: 20px;
+margin: 50px;
+width: 90%;
+
+}
+
+/* Red border at the bottom */
+.border2 {
+
+border-bottom: 3px solid red;
+margin: 50px;
+padding: 20px;
+width: 90%;
+}
+
+
+/* Curved side edges */
+
+.border3{
+margin: 50px;
+padding: 20px;
+border: 3px solid grey;
+border-radius: 40px 40px;
+width: 90%;
+
+
+
+}
+
+
+/* Blue left border  */
+
+.border4 {
+
+margin: 50px;;
+border-left: 5px solid blue;
+padding: 5px;
+background-color: rgb(5, 252, 252);
+width: 90%;
+}
+
+
+/* A circle  */
+
+
+.border5 {
+
+border: 3px solid grey;
+width: 300px;
+height: 300px;
+margin: 50px;
+border-radius: 50%;
+}
+
+
+.border6 {
+
+    border: 3px solid grey;
+    margin: 50px;
+    height: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 25px;
+
+
+}
+
+.border7 {
+
+    width: 70%;
+
+    margin: auto;
+
+    text-align: justify;
+
+    background-color: rgb(62, 78, 255);
+
+    color: antiquewhite;
+
+}
+
+
+.topred {
+
+    background-color: red;
+    
+    height: 30px;
+}
+
+
+.txt {
+
+    padding: 25px;
+    font-size: 18px;
+}
+
+
+.ft a{
+
+    color: rgb(234, 222, 222);
+
+    text-decoration: none;
+
+    font-size: 10px;
+
+}
+
+
+.border8 {
+
+    background-color: red;
+
+    padding-bottom: 5px;
+}
+
+
+.border9 {
+
+    width: 80%;
+
+    height: 500px;
+
+    border: 1px solid orangered;
+
+    padding: 10px;
+
+    margin: auto;
+
+    margin-top: 20px;
+
+    margin-left: 20px;
+
+    overflow-y: scroll;
+
+    overflow-x: scroll;
+
+}
+
+.border9 p {
+
+    width: 200vw;
+}
+
+.border10 {
+
+    margin: 20px;
+
+    width: 200px;
+
+    height: 200px;
+
+    background-color: rgba(227, 46, 46, 0.758);
+
+    overflow: hidden;
+}

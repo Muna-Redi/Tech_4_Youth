@@ -1,0 +1,145 @@
+.bg1 {
+
+    background-image: url(./images/bailey-zindel-NRQV-hBF10M-unsplash.jpg);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    background-attachment: fixed;
+
+    height: 100vh;
+
+    color: red;
+
+    padding: 10px;
+
+}
+
+
+.bg2 {
+
+    background-image: url(./images/johannes-andersson-UCd78vfC8vU-unsplash.jpg);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    background-attachment: fixed;
+
+    height: 100vh;
+
+    color: red;
+    
+    padding: 10px;
+
+
+}
+
+
+.bg3 {
+
+    background-image: url(./images/mert-ceyhan-J18StJiiqKA-unsplash.jpg);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    
+    background-attachment: fixed;
+
+    height: 100vh;
+
+    padding: 10px;
+
+    color: red;
+}
+
+
+.bg4 {
+
+    background-image: url(./images/vincent-van-zalinge-jj2ab1xIxrg-unsplash.jpg);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    
+    background-attachment: fixed;
+
+    height: 100vh;
+
+    padding: 10px;
+
+    color: red;
+}
+
+
+.bg5 {
+
+    background-image: url(./images/tomasz-filipek-CUWC-6MRcNg-unsplash.jpg);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    
+    background-attachment: fixed;
+
+    height: 100vh;
+
+    padding: 10px;
+
+    color: red;
+}
+
+
+.bg6 {
+
+    background-image: url(./images/joshua-hibbert-Pn6iimgM-wo-unsplash.jpg);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    
+    background-attachment: fixed;
+
+    height: 100vh;
+
+    padding: 10px;
+
+    color: red;
+}
+
+
+.bg7 {
+
+    background-image: url(./images/pietro-de-grandi-Q5dMq3cKqec-unsplash.jpg);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    
+    background-attachment: fixed;
+
+    height: 100vh;
+
+    padding: 10px;
+
+    color: red;
+}
+
+
+.bg8 {
+
+    background-image: url(./images/esref-yasa-549nOjXh1E4-unsplash.jpg);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    
+    background-attachment: fixed;
+
+    height: 100vh;
+
+    padding: 10px;
+
+    color: red;
+}

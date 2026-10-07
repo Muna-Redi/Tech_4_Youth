@@ -1,0 +1,35 @@
+
+#form_name {
+
+    text-align: center;
+}
+
+#heading {
+
+    color: red;
+}
+
+#branch {
+
+    width: 80%;
+}
+
+.names {
+
+    width: 100%;
+}
+
+#address1 {
+
+    width: 80%;
+}
+
+#address2 {
+
+    width: 80%;
+}
+
+#guard_or_kin {
+
+    width: 80%;
+}
