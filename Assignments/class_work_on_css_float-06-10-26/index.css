@@ -55,7 +55,7 @@ h1:hover, p:hover {
 
 .text_logo h1 {
 
-    font-size: x-large;
+    font-size: 30px;
 }
 
 .nav_anchors {
@@ -119,7 +119,9 @@ h1:hover, p:hover {
 
     text-align: center;
 
-    font-size: 50px;
+    font-size: 100px;
+
+    line-height: 100px;
 
 }
 
@@ -128,8 +130,7 @@ h1:hover, p:hover {
 
     text-align: center;
 
-    font-weight: bold;
-}
+font-size: 25px;}
 
 
 /* section 2 */
@@ -202,6 +203,18 @@ h1:hover, p:hover {
         float: right;
 }
 
+.wed p {
+    font-size: 30px;
+}
+
+.sun p {
+    font-size: 30px;
+}
+
+.counsel p {
+    font-size: 30px;
+}
+
 .program2 {
     height: 500px;
 
@@ -231,6 +244,8 @@ h1:hover, p:hover {
 
     height: 500px;
 
+    font-size: 40px;
+
     float: left;
 
     width: 66.5%;
@@ -253,6 +268,12 @@ h1:hover, p:hover {
 
     height: 500px;
 
+    font-size: 40px;
+
+    line-height: 50px;
+
+    /* line-height: 50px; */
+
     float: left;
 
     width: 33.4%;
@@ -270,14 +291,23 @@ h1:hover, p:hover {
     top: 189px;
 
 font-family: cursive;
-font-size: medium;
+/* font-size: medium; */
+
+font-size: 30px;
+
 }
 
 #donate {
 
     font-family: cursive;
 
-    font-size: medium;
+    /* font-size: medium; */
+
+        font-size: 30px;
+
+        line-height: 80px;
+
+    /* line-height: 150px; */
 
     margin-top: 2px;
 
