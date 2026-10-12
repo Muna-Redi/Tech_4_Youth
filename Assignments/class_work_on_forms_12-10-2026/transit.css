@@ -1,0 +1,108 @@
+
+* {
+    box-sizing: border-box;
+}
+
+h3 {
+    background-color: red;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 10px;
+}
+
+.regform {
+    background-color: grey;
+
+    padding: 20px;
+
+    margin-top: 50px;
+
+
+}
+
+.chapform {
+    background-color: red;
+
+    padding: 30px;
+
+    border-radius: 30px;
+
+    width: 50%;
+
+    margin: auto;
+
+    margin-top: -50px;
+}
+
+.inputs {
+    margin-top: 20px;
+
+    padding: 10px;
+
+    width: 100%;
+
+    color: blue;
+
+    background-color: red;
+
+    border-radius: 20px;
+
+    outline: none;
+
+    border: 0;
+
+    border-bottom: 2px solid white;
+
+    font-size: 20px;
+
+    transition: all 1.2s ease-in-out;
+}
+
+p {
+    color: white;
+}
+
+.frechap {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.btn {
+
+    margin: 20px;
+
+    background-color: yellow;
+
+    padding: 15px;
+
+    outline: 0;
+
+    border: 0;
+
+    border-radius: 30px;
+
+    font-size: 20px;
+
+    transition: all 1.2s ease-in-out;
+}
+
+.btn:hover {
+    box-shadow: 0 0 3px 3px rgb(248, 248, 187);
+}
+
+.inputs::placeholder {
+    color: blue;
+}
+
+.inputs:hover {
+    box-shadow: 0 0 5px 5px rgb(243, 167, 180);
+}
+
+.inputs:focus::placeholder {
+    opacity: 0;
+}
+
+
