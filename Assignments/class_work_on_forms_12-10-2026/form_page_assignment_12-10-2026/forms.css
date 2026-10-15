@@ -1,0 +1,279 @@
+/* * {
+    box-sizing: border-box;
+} */
+
+body {
+    margin: 0;
+    background-color: #FFC379 ;
+}
+
+.top_bar {
+    background-color: orange;
+    height: 80px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.top_bar h1 {
+        width: fit-content;
+        padding: 5px;
+        float: left;
+
+}
+
+.top_bar h2 {
+    background-color: black;
+    color: white;
+    width: fit-content;
+    padding: 10px;
+    margin-top: 30px;
+    float: right;
+}
+
+.detail {
+    background-color: #F9EBD8;
+    clear: both;
+    padding: 20px;
+    width: 23%;
+    margin-top: 50px;
+    margin-left: 1.6%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.detail label, .detail button{
+    margin-top: 20px;
+    font-size: 16px;
+    display: block;
+}
+
+.detail select{
+    font-size: 16px;
+    width: 100%;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    height: 30px;
+}
+.detail button{
+    background-color: green;
+    height: fit-content;
+    width: fit-content;
+    padding: 5px;
+}
+
+
+.detail input {
+    width: 100%;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    font-size: 16px;
+    height: 30px;
+    box-sizing: border-box;
+}
+
+#fname {
+    width: 55%;
+}
+#lname {
+    width: 40%;
+}
+
+.about_form {
+    background-color: #DDBB88;
+    padding: 20px;
+    width: 23%;
+    margin-top: 50px;
+    margin-left: 1.6%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.about_form h3 {
+    text-align: center;
+}
+
+.about_form input {
+    box-sizing: border-box;
+    border: 0;
+    outline: 0;
+    height: 30px;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.about_form select{
+    box-sizing: border-box;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    width: 48%;
+}
+
+.about_form button {
+    background: linear-gradient(to bottom, rgb(246, 65, 95) 50%, rgba(239, 157, 6, 0.759));
+    width: 60%;
+    color: white;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 20px;
+    padding: 5px;
+
+}
+
+.partnership_form {
+    background-color: rgb(192, 238, 192);
+    padding: 20px;
+    width: 23%;
+    margin-top: 50px;
+    margin-left: 1.6%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.partnership_form h2, .partnership_form p{
+    text-align: center;
+}
+
+.partnership_form p {
+    margin-top: -10px;
+}
+
+.partnership_form label{
+    display: block;
+    font-weight: 550;
+    margin-top: 10px;
+}
+
+.partnership_form input, .partnership_form select, .partnership_form textarea {
+    width: 100%;
+    height: 30px;
+    font-size: 16px;
+    background-color: black;
+    color: grey;
+}
+
+.partnership_form button {
+    background-color: blue;
+    width: 100%;
+    padding: 5px;
+    color: white;
+    display: block;
+    margin-top: 10px;
+}
+
+.write_us {
+    background-color: rgb(159, 158, 158);
+    width: 23%;
+    margin-left: 1.6%;
+    margin-right: 1.6%;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1px;
+    float: right;
+    box-sizing: border-box;
+}
+
+.write_us input {
+    display: inline-block;
+    height: 30px;
+    width: 45%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    outline: 0;
+}
+.write_us h3 {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.write_us textarea {
+    width: 90%;
+    margin-bottom: 5px;
+    resize: none;
+}
+
+.write_us button {
+    width: 55%;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+
+.support {
+    background-color: rgb(221, 245, 187);
+    width: 23%;
+    margin: 50px;
+    margin-left: 1.6%;
+    margin-right: 1.6%;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1px;
+    float: right;
+    box-sizing: border-box;
+}
+
+.support h2{
+    text-align: center;
+    margin-top: 2px;
+}
+
+.support label {
+    display: block;
+    margin-top: 10px;
+}
+
+.support input {
+    width: 100%;
+}
+
+.support select {
+    width: 80%;
+}
+
+.support textarea {
+    box-sizing: border-box;
+    width: 100%;
+    height: 150px;
+    resize: none;
+    margin: 0;
+}
+
+.support button{
+    margin-top: 20px;
+    padding: 5px;
+    margin-bottom: 30px;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+
+}
+
+.support p {
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.project {
+    background-color: rgb(227, 178, 228);
+    margin-top: 20px;
+    margin-left: 1.6%;
+    padding: 10px;
+    width: 55%;
+    float: inline-start;
+}
+
+.project input {
+    border: 0;
+    border-bottom: 2px solid grey;
+    outline: 0;
+    field-sizing: content;
+    padding: 2px;
+    background-color: transparent;
+}
